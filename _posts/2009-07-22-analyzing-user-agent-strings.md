@@ -79,5 +79,5 @@ Impersonating browsers and mobile devices is simple with Firefox. Just download 
  [4]: #pattern-recognition
  [5]: http://www.texsoft.it/index.php?c=software&m=sw.php.useragent&l=it
  [6]: https://addons.mozilla.org/en-US/firefox/addon/59
- [7]: http://www.useragentstring.com/
+ [7]: https://web.archive.org/web/20171026154543/http://www.useragentstring.com/
  [8]: /useful-web-development-and-debugging-tools/
