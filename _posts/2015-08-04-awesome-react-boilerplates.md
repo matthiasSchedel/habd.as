@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2017-10-05T23:51:00+08:00
+modified: 2018-03-18T17:10:00-6:00
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [programming, javascript, es2015, es6, react, react native, starter kit, boilerplate]
@@ -24,15 +24,18 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 
 Application boilerplates for creating React apps, many of which contain their own starter kit tutorials. And wow are there're a lot of good ones to choose from.
 
-**[react-pwa](https://github.com/Atyantik/react-pwa)**
-<br>I've raised the red flag regarding the [lack of SEO](/telltale-signs-your-react-app-isnt-seo-friendly/) in React Apps, which is why I was super thrilled when Ajay submitted this Docker-ready React/Webpack PWA starter. Not only does it perform automatic image compression using the tools Addy Osmani [wrote about](https://images.guide/) only days ago, this puppy outputs responsive images by default. That's just something you don't see in most boilerplates where SEO only becomes a priority when it's all but too late.
-
-**[Razzle](https://github.com/jaredpalmer/react-production-starter)** --- **Editor's choice**
+**[Razzle](https://github.com/jaredpalmer/react-production-starter)**
 <br>Create universal React, Preact, Inferno, and Rax applications with no build configuration.
 
 Here's an [example photo sharing application starter](https://github.com/jhabdas/12roads) I spiked on using an earlier version of this kit when it was still called **react-production-starter**.
 
 And here's another app using Razzle with MUI, Express and more shared in the comment thread: [kireerik/razzle-material-ui-styled-example](https://github.com/kireerik/razzle-material-ui-styled-example).
+
+**[react-pwa](https://github.com/Atyantik/react-pwa)**
+<br>I've raised the red flag regarding the [lack of SEO](/telltale-signs-your-react-app-isnt-seo-friendly/) in React Apps, which is why I was super thrilled when Ajay submitted this Docker-ready React/Webpack PWA starter. Not only does it perform automatic image compression using the tools Addy Osmani [wrote about](https://images.guide/) only days ago, this puppy outputs responsive images by default. That's just something you don't see in most boilerplates where SEO only becomes a priority when it's all but too late.
+
+**[gatsby](https://www.gatsbyjs.org/)**
+<br>Another static site generator for React. Basically it aims to do all the things including image compression so it's fairly opinionated when it comes to boilerplates. But don't let that stop you from making a faster Web. Just remember user experience can only be measured by users.
 
 **[react-boilerplate](https://github.com/mikechabot/react-boilerplate)**
 <br>Brands itself as <q>A slightly opinionated yet dead simple boilerplate for ReactJS and Webpack 2</q> and was submitted by its author [in the comments](#comment-3296221301) section below. It's being lifted near the top of this list because it's fresh, it's young and it needs your attention to help it flourish.
