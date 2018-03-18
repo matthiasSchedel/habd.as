@@ -204,7 +204,7 @@ Cloud CMS's make it possible to edit the content for a static website without ha
 <br>Build Jekyll or static websites, have your team and clients update inline. CloudCannon has a number of professionally designed, open source Jekyll themes you can begin using immediately with their service, has great documentation, maintains a learning website with [the missing cheat sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/) Liquid should have had but never did. They maintain a very simple set-up experience and focus on creating one of the best user experiences you could possibly imagine.
 
 **[Siteleaf](https://www.siteleaf.com/)**
-<br>Like CloudCannon, SiteLeaf is a Cloud CMS for Jekyll. I used them to build [a website](https://comfusionllc.com/clients/security7-networks/) for one of my clients and was surprised at how quickly they were able to provide support. Siteleaf has been around for over 7 years, and as one of their employees told me, they consider that and their API two of their key advantages in the Cloud CMS space.
+<br>Like CloudCannon, SiteLeaf is a Cloud CMS for Jekyll. I used them to build [a website](https://comfusion.io/clients/security7-networks/) for one of my clients and was surprised at how quickly they were able to provide support. Siteleaf has been around for over 7 years, and as one of their employees told me, they consider that and their API two of their key advantages in the Cloud CMS space.
 
 **[Forestry.io](https://forestry.io/)**
 <br>I haven't tried them yet. But support for Hugo is _very_ appealing to me. I'd love to hear any feedback you have to share about Forestry in the comments section below.

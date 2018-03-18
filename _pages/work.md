@@ -19,7 +19,7 @@ feature_row1:
       Reskinned and ported a 200+ page WordPress site to breath life into the content, improve UX, speed and search visibility. Created in 6 days.
       <br><br>
       <small>AWS / Jekyll / AdSense / Contact Form / Newsletter </small>
-    url: "http://comfusionllc.com/clients/chicago-gang-history/"
+    url: "http://comfusion.io/clients/chicago-gang-history-ii/"
     btn_label: "Read Customer Story"
     btn_class: "btn--inverse"
   -
