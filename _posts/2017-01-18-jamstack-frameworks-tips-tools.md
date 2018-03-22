@@ -2,7 +2,7 @@
 title: JAMstack Frameworks, Tips and Tools
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-08-26T14:18:00+08:00
+modified: 2018-03-22T19:05:00+08:00
 excerpt: An assortment of shiny things for building your JAMstack sites.
 categories: [reference]
 tags: [jamstack, design tools, css frameworks, icons, animation]
@@ -133,6 +133,9 @@ Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile 
 ### Easiest
 
 CSS-only frameworks for super-simple animation effects. Perfect for beginners looking to add a little movement to their pages.
+
+**[Hover](https://github.com/IanLunn/Hover)**
+<br>A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
 **[Animate.css](https://daneden.github.io/animate.css/)**
 <br>Just-add-water CSS animations. Handy for providing feedback to users, such as shaking a button when a form is invalid.
