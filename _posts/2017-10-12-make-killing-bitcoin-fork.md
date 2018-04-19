@@ -17,7 +17,7 @@ tags:
 link: https://hackcabin.com/post/make-killing-bitcoin-fork/
 header:
   teaser: https://source.unsplash.com/Cp-LUHPRpWM/512x338
-featured: true
+featured: false
 ---
 
 Bitcoin's next hard fork is right around the corner, and value is increasing rapidly. Do these things right now to achieve death-defying performance. Don't miss out!

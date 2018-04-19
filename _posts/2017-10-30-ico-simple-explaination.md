@@ -14,7 +14,7 @@ tags:
 link: https://hackcabin.com/deal/initial-coin-offering/
 header:
   teaser: https://source.unsplash.com/8koEuSiR1zM/512x338
-featured: true
+featured: false
 ---
 
 Quickly understand what an ICO is and what they're good for.

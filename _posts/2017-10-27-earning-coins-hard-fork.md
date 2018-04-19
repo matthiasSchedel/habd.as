@@ -12,10 +12,10 @@ tags:
   - bitcoin
   - blockchain
   - banking
-link: https://hackcabin.com/post/take-flight-monero-cli-wallet/
+link: https://hackcabin.com/post/keep-calm-own-your-private-keys/
 header:
   teaser: https://source.unsplash.com/pY_AZJfdbHQ/512x338
-featured: true
+featured: false
 ---
 
 How Coinbase walked off with millions of customer coins during the Bitcoin Gold hard fork. And how to make sure it never happens again.

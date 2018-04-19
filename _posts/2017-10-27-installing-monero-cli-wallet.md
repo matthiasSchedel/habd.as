@@ -14,7 +14,7 @@ tags:
 link: https://hackcabin.com/post/take-flight-monero-cli-wallet/
 header:
   teaser: https://source.unsplash.com/mqc_ocLIUYw/512x338
-featured: false
+featured: true
 ---
 
 Be your own bank. Store your secure, private and untraceable cryptocurrency and keep it safe from prying eyes. Learn to take flight with the Monero CLI wallet.
