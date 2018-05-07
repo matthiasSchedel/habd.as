@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2018-03-18T17:10:00-6:00
+modified: 2018-05-07T13:13:00+8:00
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [programming, javascript, es2015, es6, react, react native, starter kit, boilerplate]
@@ -23,6 +23,9 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 # React
 
 Application boilerplates for creating React apps, many of which contain their own starter kit tutorials. And wow are there're a lot of good ones to choose from.
+
+**[Meatier](https://github.com/mattkrick/meatier)**
+<br>Meteor is awesome! But after 3 years, it's starting to show its age. This project is designed to showcase the exact same functionality as Meteor, but without the monolithic structure. It trades a little simplicity for a lot of flexibility.
 
 **[Razzle](https://github.com/jaredpalmer/react-production-starter)**
 <br>Create universal React, Preact, Inferno, and Rax applications with no build configuration.
