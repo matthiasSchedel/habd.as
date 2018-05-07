@@ -2,7 +2,7 @@
 title: JAMstack Frameworks, Tips and Tools
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2018-03-22T19:05:00+08:00
+modified: 2018-05-07T13:44:00+08:00
 excerpt: An assortment of shiny things for building your JAMstack sites.
 categories: [reference]
 tags: [jamstack, design tools, css frameworks, icons, animation]
@@ -57,6 +57,9 @@ Like the full-featured frameworks, you can do a lot with these frameworks, all o
 ### Rising stars
 
 Shining bright, these libraries are composed of industry trend-setters and visionaries looking to make waves in the design and development world. There are all very much worth checking out in close detail.
+
+**[Tailwind CSS](https://tailwindcss.com/)**
+<br>Dubbing itself "not a UI kit" I saw Tailwind [mentioned](https://discourse.gohugo.io/t/opinions-on-tachyons/11798/5) by [lucperkins](https://discourse.gohugo.io/u/lucperkins) on a Hugo Discourse thread. Looks interesting and it seems to be gaining traction quickly.
 
 **[mini.css](https://chalarangelo.github.io/mini.css/)**
 <br>As the author points out [in the comments below](#comment-3138394169) mini.css isn't exactly a full-featured framework, but it's not a micro framework either. I took a look at the doc site and was surprised to see such comprehensive documentation and even quick a reference guide with code snippets and links to functional Pens. And that's something you don't see very often in the other frameworks. Mini lives up to its name with a pretty lightweight footprint -- clocking in at just 7kb gzipped. And if you're compressing your assets with [Brotli compression](http://google-opensource.blogspot.com/2015/09/introducing-brotli-new-compression.html), you can expect to do even more with less.
