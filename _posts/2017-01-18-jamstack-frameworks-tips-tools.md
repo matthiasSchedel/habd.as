@@ -2,7 +2,7 @@
 title: JAMstack Frameworks, Tips and Tools
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2018-05-07T13:44:00+08:00
+modified: 2018-05-13T12:38:00+08:00
 excerpt: An assortment of shiny things for building your JAMstack sites.
 categories: [reference]
 tags: [jamstack, design tools, css frameworks, icons, animation]
@@ -36,7 +36,7 @@ These frameworks pretty much have it all, and then some.
 Foundation is available with multiple prepackaged builds and also has the ability to pick what you want to create your own custom build. In addition to being the building block for many, Foundation also offers a complimentary set of tools for [building responsive email templates](http://foundation.zurb.com/emails.html) as well. And while it may not be as easy as some of the others, the thoughtful design constraints baked into Foundation will make you a better Web developer just by using it.
 
 **[Bootstrap](http://getbootstrap.com/)**
-<br>This framework needs little introduction. Born out of Twitter, Bootstrap is one of the most well-known and widely deployed starting points for building a website. Bootstrap is perfect for newcomers looking to build a rich Web experience without the steep learning curve. And though they have not released a new version in years, Bootstrap 4 is [already in alpha](https://v4-alpha.getbootstrap.com/) and just around the corner.
+<br>This framework needs little introduction. Born out of Twitter, Bootstrap is one of the most well-known and widely deployed starting points for building a website. Bootstrap is perfect for newcomers looking to build a rich Web experience without the steep learning curve and it now it its 4th version with a significant number of contributions from across the globe.
 
 **[Semantic UI](http://semantic-ui.com/)**
 <br>Though it hasn't gained the mindshare of the Foundations and Bootstraps of the world, Semantic UI is not something to be overlooked. Semantic UI takes a different approach to building interfaces, making it possible to mix and match many of their UI components to create truly custom layouts that can do a lot more than meets the eye until you start working with it. I once used the Semantic UI to build a SPA using the React-port when it was still called [Stardust](https://github.com/TechnologyAdvice/stardust) and was thoroughly impressed with the flexibility and power of the interfaces I could build with Semantic UI.
@@ -59,7 +59,7 @@ Like the full-featured frameworks, you can do a lot with these frameworks, all o
 Shining bright, these libraries are composed of industry trend-setters and visionaries looking to make waves in the design and development world. There are all very much worth checking out in close detail.
 
 **[Tailwind CSS](https://tailwindcss.com/)**
-<br>Dubbing itself "not a UI kit" I saw Tailwind [mentioned](https://discourse.gohugo.io/t/opinions-on-tachyons/11798/5) by [lucperkins](https://discourse.gohugo.io/u/lucperkins) on a Hugo Discourse thread. Looks interesting and it seems to be gaining traction quickly.
+<br>Dubbing itself "not a UI kit" I saw Tailwind [mentioned](https://discourse.gohugo.io/t/opinions-on-tachyons/11798/5) by [lucperkins](https://discourse.gohugo.io/u/lucperkins) on a Hugo Discourse thread. I gave it a spin while creating my [second Hugo theme](https://themes.gohugo.io/seminyak/) and found it very enjoyable to use. It's well-designed, extensible and includes searchable documentation. There's even an [awesome list](https://github.com/merchedhq/awesome-tailwindcss) if you're looking for examples and inspiration to get you started.
 
 **[mini.css](https://chalarangelo.github.io/mini.css/)**
 <br>As the author points out [in the comments below](#comment-3138394169) mini.css isn't exactly a full-featured framework, but it's not a micro framework either. I took a look at the doc site and was surprised to see such comprehensive documentation and even quick a reference guide with code snippets and links to functional Pens. And that's something you don't see very often in the other frameworks. Mini lives up to its name with a pretty lightweight footprint -- clocking in at just 7kb gzipped. And if you're compressing your assets with [Brotli compression](http://google-opensource.blogspot.com/2015/09/introducing-brotli-new-compression.html), you can expect to do even more with less.
