@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-10-20T11:18:00+08:00
+modified: 2018-05-20T00:31:00+08:00
 excerpt: Awesome React Components to help you build better, faster, stronger React and React Native apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -52,6 +52,9 @@ Awesome components for building React apps.
 # React Native
 
 Awesome component libraries and native modules for building React Native apps.
+
+**[Paper](https://github.com/callstack/react-native-paper)**
+<br>Material Design for React Native. Haven't tried it yet but it claims to work for both iOS and Android and support theme rolling. Includes an [Example app](https://exp.host/@satya164/react-native-paper-example) for use with [Expo](https://expo.io/), a Getting Started guide for a soft landing and will be maintained by the [Callstack team](https://github.com/callstack) for ongoing support—a sore point for RN developers no doubt.
 
 **[Styled Components](https://styled-components.com/)**
 <br>From Glen Maddern and Max Stoiber, styled components for the component age. Uses tagged template literals and enables you to write "actual CSS" to style your components. That's cool. Learned about this one from [a post by Jani Eväkallio](https://medium.com/react-native-development/react-native-app-stack-march-2017-f7605e02d46f).
