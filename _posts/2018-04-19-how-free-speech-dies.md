@@ -14,7 +14,7 @@ tags:
 link: https://hackcabin.com/post/how-free-speech-dies/
 header:
   teaser: https://source.unsplash.com/2xaF4TbjXT0/512x338
-featured: true
+featured: false
 ---
 
 On free speech and how to achieve it in today’s increasingly digital world.
