@@ -2,7 +2,7 @@
 title: JAMstack Frameworks, Tips and Tools
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2018-05-13T12:38:00+08:00
+modified: 2018-06-18T19:28:00+08:00
 excerpt: An assortment of shiny things for building your JAMstack sites.
 categories: [reference]
 tags: [jamstack, design tools, css frameworks, icons, animation]
@@ -198,6 +198,9 @@ fetchInject([
 
 **[Waypoints](https://github.com/imakewebthings/waypoints/)**
 <br>Achieve infinite scrolling on your static website, and trigger events as the user scrolls. Used to be a jQuery only thing back in the day. But not anymore.
+
+**[purgecss](https://github.com/FullHuman/purgecss)**
+<br>Helps you remove unused CSS from your webapps.
 
 **[Headroom.js](https://github.com/WickyNilliams/headroom.js)**
 <br>Headroom.js is a lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll.
