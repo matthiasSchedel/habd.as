@@ -18,7 +18,7 @@ feature_row1:
     excerpt: >
       Redeveloped a 200+ page WordPress site to breath life into the content, improve UX, speed and search visibility. Original port to Jekyll created in 6 days. Moved to Pantheon 8 months later. [View the site](https://chicagoganghistory.com).
       <br><br>
-      <small>AWS / Jekyll / AdSense / Contact Form / Newsletter</small>
+      <small>WordPress / Pantheon / Route 53 / CloudFront</small>
     url: "http://comfusion.io/clients/chicago-gang-history-ii/"
     btn_label: "Read Customer Story"
     btn_class: "btn--inverse"
