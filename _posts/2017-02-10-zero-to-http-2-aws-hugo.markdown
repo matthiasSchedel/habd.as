@@ -33,7 +33,7 @@ So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03
 
 Here's an example what your site might look like, save for customizations (click for preview):
 
-[![After Dark theme for Hugo screenshots](https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")](https://hackcabin.com)
+[![After Dark theme for Hugo screenshots](https://cdn.jsdelivr.net/npm/after-dark@latest/images/docs/minimal-mac.png "After Dark running on a MacBook and iPhone")](https://hackcabin.com)
 
 When you're ready to get your hands dirty, continue on for the full set of step-by-step instructions on how to go from Zero to HTTP/2 with AWS and Hugo.
 

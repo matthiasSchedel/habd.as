@@ -2,7 +2,7 @@
 title: JAMstack Frameworks, Tips and Tools
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2018-06-18T19:28:00+08:00
+modified: 2018-09-03T13:52:00+08:00
 excerpt: An assortment of shiny things for building your JAMstack sites.
 categories: [reference]
 tags: [jamstack, design tools, css frameworks, icons, animation]
@@ -192,6 +192,9 @@ fetchInject([
 
 **[PhotoSwipe](http://photoswipe.com/)**
 <br>A composite JavaScript gallery, no dependencies. Use it to create the most beautiful photo gallery you could imagine, replete with social sharing and full screen buttons. As the documentation states, you're going to need to know some JavaScript to get this thing working. But there are some code snippets and Pens to get you going, and the maintainer actively helps answer questions on the GitHub repo.
+
+**[lightGallery](https://github.com/sachinchoolur/lightGallery)**
+<br>A customizable, modular, responsive, lightbox gallery plugin for jQuery. Includes a number of built-in modules such as video, thumbnail, autoplay and more. Looks very comprehensive. Too bad it depends on jQuery.
 
 **[lazysizes](https://github.com/aFarkas/lazysizes)**
 <br>Lazy load images and scripts into your page. Support for optimistic preloading of assets with lazy-queueing. Also does responsive images and supports LQIP (Low-Quality Image Placeholders) and more. I used this while building [a prototoype](https://hackernoon.com/putting-wordpress-into-hyperdrive-4705450dffc2) for the [WordCamp Ubud 2017](https://2017.ubud.wordcamp.org/) and it did wonders for page weight. I've also implemented on the [Hugo theme gallery](http://themes.gohugo.io/) to improve UX and page speed.

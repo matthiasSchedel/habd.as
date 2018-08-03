@@ -35,7 +35,7 @@ After trying a number of static site generators myself over the years, **the one
 - **It's very flexible.** Unlike Jekyll, which was blog-focused until [Collections](https://jekyllrb.com/docs/collections/) were bolted on version 3 (albeit, in a very well thought-out way), Hugo was built from the ground up with freedom of content structure in mind. Use it to create a personal blog or even <a target="_blank" rel="noreferrer nofollow noopener" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/">the next Smashing Magazine.</a>
 - **It's easy to get started.** To prove this last point I decided to create a theme for Hugo called [After Dark](https://comfusion.github.io/after-dark/) (pictured below). The initial theme creation process took about two days, and making it reminded me of the joys of coding for the Web circa 1995---back when flying toasters were all the rage.
 
-![After Dark theme for Hugo screenshots](https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")
+![After Dark theme for Hugo screenshots](https://cdn.jsdelivr.net/npm/after-dark@latest/images/docs/minimal-mac.png "After Dark running on a MacBook and iPhone")
 
 There are **some downsides** to Hugo, don't get me wrong. For starters, Hugo, which is built using GoLang, hasn't been around as long and, as a result, doesn't not have as large of a community around it as more established SSGs like Jekyll. Additionally, you may find a few holes in Hugo's documentation--which is otherwise pretty great.
 
