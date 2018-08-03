@@ -33,7 +33,7 @@ After trying a number of static site generators myself over the years, **the one
   {: .notice--info}
 
 - **It's very flexible.** Unlike Jekyll, which was blog-focused until [Collections](https://jekyllrb.com/docs/collections/) were bolted on version 3 (albeit, in a very well thought-out way), Hugo was built from the ground up with freedom of content structure in mind. Use it to create a personal blog or even <a target="_blank" rel="noreferrer nofollow noopener" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/">the next Smashing Magazine.</a>
-- **It's easy to get started.** To prove this last point I decided to create a theme for Hugo called [After Dark](https://comfusion.github.io/after-dark/) (pictured below). The initial theme creation process took about two days, and making it reminded me of the joys of coding for the Web circa 1995---back when flying toasters were all the rage.
+- **It's easy to get started.** To prove this last point I decided to create a theme for Hugo called [After Dark](https://themes.gohugo.io/after-dark/) (pictured below). The initial theme creation process took about two days, and making it reminded me of the joys of coding for the Web circa 1995---back when flying toasters were all the rage.
 
 ![After Dark theme for Hugo screenshots](https://cdn.jsdelivr.net/npm/after-dark@latest/images/docs/minimal-mac.png "After Dark running on a MacBook and iPhone")
 
@@ -42,4 +42,4 @@ There are **some downsides** to Hugo, don't get me wrong. For starters, Hugo, wh
 **Update 30 Mar 2017:** Hugo is currently under way of rolling out an entirely new documentation site. The last one was good. The next one will be even better.
 {: .notice--info}
 
-So what are you waiting for? **[Give Hugo a try](/zero-to-http-2-aws-hugo/)**. And, while you're at it, check out the [After Dark theme](https://comfusion.github.io/after-dark/) and for a [culture jamming](https://en.wikipedia.org/wiki/Vaporwave) take on content publishing in the new millennium.
+So what are you waiting for? **[Give Hugo a try](/zero-to-http-2-aws-hugo/)**. And, while you're at it, check out the [After Dark theme](https://themes.gohugo.io/after-dark) and for a [culture jamming](https://en.wikipedia.org/wiki/Vaporwave) take on content publishing in the new millennium.

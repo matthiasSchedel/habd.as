@@ -37,14 +37,14 @@ feature_row1:
     btn_label: "View Source"
     btn_class: "btn--inverse"
   -
-    image_path: https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png
-    alt: "After Dark screenshot"
+    image_path: https://cdn.jsdelivr.net/npm/after-dark@latest/images/docs/minimal-mac.png
+    alt: "After Dark screenshots"
     title: "After Dark"
     excerpt: >
       A retro dark theme for the Hugo static site generator, easing nighttime reading and providing a framework for JAMstack sites.
       <br><br>
       <small>Golang / JavaScript / HTML5 / CSS3 / Hugo </small>
-    url: "https://comfusion.github.io/after-dark/"
+    url: "https://themes.gohugo.io/after-dark/"
     btn_label: "Visit Docs"
     btn_class: "btn--inverse"
 feature_row2:
