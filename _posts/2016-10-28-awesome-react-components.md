@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2018-05-20T00:31:00+08:00
+modified: 2018-08-12T22:01:00+08:00
 excerpt: Awesome React Components to help you build better, faster, stronger React and React Native apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -107,6 +107,11 @@ Awesome component libraries and native modules for building React Native apps.
 # Universal
 
 To be considered "Universal" for the purposes of this list components must not only be awesome, they must leverage the same codebase for both React and React Native and work on Android, iOS and Web.
+
+**[emotion](https://emotion.sh)**
+<br>Style as a function of state. Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
+
+See it in comparison to others [on npmtrends.com](http://www.npmtrends.com/styled-components-vs-emotion-vs-glamorous-vs-jss-vs-radium-vs-aphrodite).
 
 **[Carbon UI](https://carbon-ui.com/)**
 <br>Piggybacking on **React Native Web** Carbon UI is a <abbr title="Material UI">MUI</abbr> clone [being released](https://github.com/callemall/material-ui/issues/593#issuecomment-265753123) just in time for the 2016 holidays. That's arguably a better gift than [a years' worth of 24 Ways](https://24ways.org/). Giggity.
