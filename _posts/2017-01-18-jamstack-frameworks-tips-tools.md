@@ -85,7 +85,7 @@ For the minimalists in the crowd, these frameworks were built with strong opinio
 <br>A minimalist CSS framework for desktop and mobile development, Milligram provides the basics to get a site set-up without using a full-featured framework.
 
 **[hack.css](http://hackcss.com/)**
-<br>hack.css describes itself as a <q>dead simple css framework</q>, and it truly is. I used this little to build the [After Dark theme for Hugo](https://themes.gohugo.io/after-dark/), and absolutely love how people are [finding ways](https://github.com/comfusion/after-dark/wiki) to make it their own. Per the author, hack.css pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer. And I use some of these icons on [Hack Cabin](https://hackcabin.com) to how you how l33t they can be.
+<br>hack.css describes itself as a <q>dead simple css framework</q>, and it truly is. I used this little to build the [After Dark theme for Hugo](https://themes.gohugo.io/after-dark/), and absolutely love how people are [finding ways](https://git.habd.as/comfusion/after-dark/wiki) to make it their own. Per the author, hack.css pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer. And I use some of these icons on [Hack Cabin](https://hackcabin.com) to how you how l33t they can be.
 
 ### Dated but still relevant
 

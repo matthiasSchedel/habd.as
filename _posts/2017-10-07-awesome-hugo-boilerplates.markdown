@@ -49,7 +49,7 @@ Check out the [Huggle website](http://ktmud.github.io/huggle/) to learn more. Ju
 **[Brunch With Hugo](https://github.com/Jayphen/brunch-with-hugo)**
 <br>Are tools like Webpack [starting to feel](https://medium.com/@jhabdas/webpack-is-your-achilles-heel-d3cd80821a4f) like your Achilles’ heel? Then this is the boilerplate for you. Created by my man main [`@Jayphen`](https://github.com/Jayphen/) and leveraging the deceptively simple and ultra fast [Brunch by Paul Miller](http://brunch.io/) and friends, BWH provides BrowserSync and plugs right in with the entire Brunch ecosystem to help you get to where you're going without dealing with tooling trivialities.
 
-**[After Dark](https://github.com/comfusion/after-dark)**
+**[After Dark](https://git.habd.as/comfusion/after-dark)**
 <br>No awesome list would be complete if I didn't selfishly promote some of of my own stuff amirite!? I built after Dark specifically to create my [Hack Cabin](https://hackcabin.com) website. It uses a design concept I call _Deceptive Simplicity_ and introduces cutting edge Web tech without going overboard on tooling. [Check out After Dark](https://themes.gohugo.io/after-dark/) for a wild trip back in time, when Geocities and Angelfire reined supreme.
 
 [![After Dark logo](https://cdn.jsdelivr.net/npm/after-dark@latest/images/docs/minimal-mac.png)](https://themes.gohugo.io/after-dark/)
