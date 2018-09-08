@@ -2,7 +2,7 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-04-14T17:50:00+08:00
+modified: 2018-09-08T21:31:00+08:00
 excerpt: A step-by-step guide to creating your own JAMstack site using Amazon Web Services and the Hugo static site generator.
 categories: [tutorials]
 tags: [aws, hugo, http2, performance, ssl, https, jamstack]
@@ -109,7 +109,7 @@ Sites served over CloudFront allow HTTPS by default, meaning you do not have to 
 
 This part requires some manual work in the AWS Console, but nothing too extravagant. And while some [may encourage you](https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront-b217669987b2) to use Let's Encrypt, it has been my personal experience using the AWS Certificate Manager is **significantly easier** to manage over time.
 
-To obtain a custom TLS/SSL certificate you **must be able to receive email** at your custom domain. If you can already receive email, skip the SES set-up and jump to [Request Certificate Using Certificate Manager](#request-security-certificate-using-certificate-manager). Otherwise you can set-up email forwarding on AWS for basically nothing in the next step.
+To obtain a custom TLS/SSL certificate you **must be able to receive email or configure DNS records** for your custom domain. If you can already receive email or set DNS records skip ahead to [Request Certificate Using Certificate Manager](#request-security-certificate-using-certificate-manager).
 
 ### Configure SES to receive email
 
