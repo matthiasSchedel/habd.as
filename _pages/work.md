@@ -41,7 +41,7 @@ feature_row1:
     alt: "After Dark screenshots"
     title: "After Dark"
     excerpt: >
-      Hypermedia authoring system for Hugo.
+      a complete hypermedia authoring system for the Hugo Static Site Generator designed for the creation of engaging websites that are easy to build, fully customizable and secure by design.
       <br><br>
       <small>Hugo / WASM / HTML / JavaScript / CSS</small>
     url: "https://after-dark.habd.as/"
