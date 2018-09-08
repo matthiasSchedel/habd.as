@@ -41,11 +41,11 @@ feature_row1:
     alt: "After Dark screenshots"
     title: "After Dark"
     excerpt: >
-      A retro dark theme for the Hugo static site generator, easing nighttime reading and providing a framework for JAMstack sites.
+      Hypermedia authoring system for Hugo.
       <br><br>
-      <small>Golang / JavaScript / HTML5 / CSS3 / Hugo </small>
-    url: "https://themes.gohugo.io/after-dark/"
-    btn_label: "Visit Docs"
+      <small>Hugo / WASM / HTML / JavaScript / CSS</small>
+    url: "https://after-dark.habd.as/"
+    btn_label: "View Site"
     btn_class: "btn--inverse"
 feature_row2:
   -

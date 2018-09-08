@@ -85,7 +85,7 @@ For the minimalists in the crowd, these frameworks were built with strong opinio
 <br>A minimalist CSS framework for desktop and mobile development, Milligram provides the basics to get a site set-up without using a full-featured framework.
 
 **[hack.css](http://hackcss.com/)**
-<br>hack.css describes itself as a <q>dead simple css framework</q>, and it truly is. I used this little to build the [After Dark theme for Hugo](https://themes.gohugo.io/after-dark/), and absolutely love how people are [finding ways](https://git.habd.as/comfusion/after-dark/wiki) to make it their own. Per the author, hack.css pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer. And I use some of these icons on [Hack Cabin](https://hackcabin.com) to how you how l33t they can be.
+<br>hack.css describes itself as a <q>dead simple css framework</q>, and it truly is. I used this little to build the [After Dark theme for Hugo](https://after-dark.habd.as/), and absolutely love how people are [finding ways](https://git.habd.as/comfusion/after-dark/wiki) to make it their own. Per the author, hack.css pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer. And I use some of these icons on [Hack Cabin](https://hackcabin.com) to how you how l33t they can be.
 
 ### Dated but still relevant
 
@@ -157,7 +157,7 @@ Icons and icon-related tools to help bring your site some flair. Use them to cre
 <br>Icon set for Material Design. Lots of them, and there's a _very_ handy toolbar for downloading these in SVG, PNG or Icon Font format. Let Ross Phillips show you how to use them to create some very [lightweight social share buttons](http://cloudcannon.com/tutorials/2017/02/01/lightweight-social-share-buttons/pretty).
 
 **[Bytesize Icons](https://github.com/danklammer/bytesize-icons)**
-<br>A "Tiny style-controlled SVG iconset". Like the name suggests, this icon set is fairly small. But the minimalist design makes these perfect for applications where you don't want draw too much attention away from your content. I use some of these icons in [After Dark](https://themes.gohugo.io/after-dark/), my retro dark theme for Hugo.
+<br>A "Tiny style-controlled SVG iconset". Like the name suggests, this icon set is fairly small. But the minimalist design makes these perfect for applications where you don't want draw too much attention away from your content. I use some of these icons in [After Dark](https://after-dark.habd.as/), my retro dark theme for Hugo.
 
 **[Font Custom](https://github.com/FontCustom/fontcustom)**
 <br>Generate custom icon webfonts from the comfort of the command line. Use only what you need, with Font Custom. I originally learned about this one while working with the [Feeling Responsive](https://github.com/Phlow/feeling-responsive) theme. It can be a little tricky to use at first, but the payoff is worth it.
